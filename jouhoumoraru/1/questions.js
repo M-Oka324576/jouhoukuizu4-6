@@ -52,7 +52,7 @@ window.allQuizData = [
             "おうちの<ruby>人<rt>ひと</rt></ruby>や<ruby>先<rt>せん</rt></ruby><ruby>生<rt>せい</rt></ruby>に<ruby>相<rt>そう</rt></ruby><ruby>談<rt>だん</rt></ruby>する"
         ],
         answer: 1,
-        explanation: "<ruby>一<rt>ひと</rt></ruby>りで<ruby>悩<rt>なや</rt></ruby>まず、<ruby>大<rt>おとな</rt></ruby>に<ruby>相<rt>そう</rt></ruby><ruby>談<rt>だん</rt></ruby>しましょう。"
+        explanation: "<ruby>一<rt>ひと</rt></ruby>りで<ruby>悩<rt>なや</rt></ruby>まず、<ruby>大人<rt>おとな</rt></ruby>に<ruby>相<rt>そう</rt></ruby><ruby>談<rt>だん</rt></ruby>しましょう。"
     },
     {
         question: "インターネットででてきた<ruby>情<rt>じょう</rt></ruby><ruby>報<rt>ほう</rt></ruby>はすべて<ruby>正<rt>ただ</rt></ruby>しい？",
@@ -156,11 +156,11 @@ window.allQuizData = [
     {
         question: "<ruby>画<rt>が</rt></ruby><ruby>像<rt>ぞう</rt></ruby>や<ruby>動<rt>どう</rt></ruby><ruby>画<rt>が</rt></ruby>を<ruby>見<rt>み</rt></ruby>てこわくなったら？",
         options: [
-            "<ruby>大<rt>おとな</rt></ruby>に<ruby>話<rt>はな</rt></ruby>す",
+            "<ruby>大人<rt>おとな</rt></ruby>に<ruby>話<rt>はな</rt></ruby>す",
             "がまんする"
         ],
         answer: 0,
-        explanation: "<ruby>心<rt>しん</rt></ruby><ruby>配<rt>ぱい</rt></ruby>なことは<ruby>大<rt>おとな</rt></ruby>に<ruby>話<rt>はな</rt></ruby>しましょう。"
+        explanation: "<ruby>心<rt>しん</rt></ruby><ruby>配<rt>ぱい</rt></ruby>なことは<ruby>大人<rt>おとな</rt></ruby>に<ruby>話<rt>はな</rt></ruby>しましょう。"
     },
     {
         question: "インターネット<ruby>上<rt>じょう</rt></ruby>にある<ruby>写<rt>しゃ</rt></ruby><ruby>真<rt>しん</rt></ruby>やイラストをかってにつかつてもいい？",
