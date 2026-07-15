@@ -48,7 +48,7 @@ window.allQuizData = [
     {
         question: "インターネットでいやなことを<ruby>言<rt>い</rt></ruby>われたら？",
         options: [
-            "<ruby>言<rt>い</rt></ruby>い<ruby>返<rt>かえ</rt></ruby>する",
+            "<ruby>言<rt>い</rt></ruby>い<ruby>返<rt>かえ</rt></ruby>す",
             "おうちの<ruby>人<rt>ひと</rt></ruby>や<ruby>先<rt>せん</rt></ruby><ruby>生<rt>せい</rt></ruby>に<ruby>相<rt>そう</rt></ruby><ruby>談<rt>だん</rt></ruby>する"
         ],
         answer: 1,
@@ -138,7 +138,7 @@ window.allQuizData = [
     {
         question: "<ruby>知<rt>し</rt></ruby>らないアプリを<ruby>入<rt>い</rt></ruby>れるときは？",
         options: [
-            "おうちの<ruby>人<rt>ひと</rt></ruby>に<ruby>商<rt>き</rt></ruby>く",
+            "おうちの<ruby>人<rt>ひと</rt></ruby>に<ruby>聞<rt>き</rt></ruby>く",
             "かってに<ruby>入<rt>い</rt></ruby>れる"
         ],
         answer: 0,
