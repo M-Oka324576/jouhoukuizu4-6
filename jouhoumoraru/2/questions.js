@@ -12,8 +12,8 @@ window.allQuizData = [
     {
         question: "<ruby>保護者<rt>ほごしゃ</rt></ruby>に<ruby>内緒<rt>ないしょ</rt></ruby>でゲームに<ruby>課金<rt>かきん</rt></ruby>してもよいでしょうか？",
         options: [
-            "はい。",
-            "いいえ。"
+            "はい",
+            "いいえ"
         ],
         answer: 1,
         explanation: "ゲームの<ruby>課金<rt>かきん</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うことです。<ruby>必<rt>かなら</rt></ruby>ず<ruby>保護者<rt>ほごしゃ</rt></ruby>と<ruby>相談<rt>そうだん</rt></ruby>しましょう。"
